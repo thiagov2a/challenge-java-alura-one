@@ -3,16 +3,16 @@
 </h4>
 
 <h1 align="center">
-  💻 Conversor de Monedas en Java
+  💱 ExchanGo - Conversor de Monedas
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación del proyecto de conversor de monedas utilizando Java del Programa Alura + ONE.
+  Este documento contiene el desarrollo y la documentación del proyecto ExchanGo del Programa Alura + ONE.
 </p>
 
 ## 📝 Descripción del Proyecto
 
-Este proyecto es un conversor de monedas desarrollado en Java, que utiliza una API para obtener tasas de cambio actualizadas. La aplicación permite convertir entre varias monedas y presenta una interfaz de consola interactiva.
+ExchanGo es un conversor de monedas desarrollado en Java, que utiliza una API para obtener tasas de cambio actualizadas. La aplicación permite convertir entre varias monedas y presenta una interfaz de consola interactiva.
 
 ## 📋 Funcionalidades
 
@@ -41,5 +41,5 @@ Este proyecto es un conversor de monedas desarrollado en Java, que utiliza una A
 - **GitHub**: 🌐 Plataforma de hospedaje de código fuente y colaboración.
 
 <p align="center">
-  Alura + ONE | Conversor de Monedas en Java
+  Alura + ONE | ExchanGo - Conversor de Monedas
 </p>
